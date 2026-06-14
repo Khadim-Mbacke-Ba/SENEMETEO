@@ -82,4 +82,4 @@ Les données affichées incluent :
 
 1. Clone le projet :
 ```bash
-git clone https://github.com/ton-utilisateur/senemto.git# SENEMETEO
+git clone https://github.com/Khadim-Mbacke-Ba/SENEMETEO.git# SENEMETEO
